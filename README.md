@@ -47,6 +47,7 @@ https://github.com/laughedelic/fish_logo
 ```
 fish_logo blue cyan green
 ```
+## tmux
 
 # **Utils**
 ## Enable japanese input 
